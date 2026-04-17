@@ -1,8 +1,15 @@
 # ✈️ SafarAI
 
-> **AI-powered travel planner** that generates complete itineraries including flights, stays, and activities — in seconds.
+ **AI-powered travel planner** that generates complete itineraries including flights, stays, and activities — in seconds.
+ <p align="center" justify="center">
+<img alt="image" height="500px" src="https://github.com/user-attachments/assets/2a7039e4-37af-439b-8a11-783056c10297" width="48%"/>
+<img  alt="image" src="https://github.com/user-attachments/assets/976aee23-fbcd-4250-a34e-af3feb9ac2e5" width="48%"/>
 
----
+
+</p>
+
+
+
 
 ## 🌍 Overview
 
@@ -15,7 +22,7 @@
 
 Built with a **multi-agent architecture**, SafarAI combines specialized services to create a seamless travel planning experience.
 
----
+
 
 ## 🚀 Features
 
@@ -24,9 +31,7 @@ Built with a **multi-agent architecture**, SafarAI combines specialized services
 * 📄 A2A used to enable seamless, secure communication and collaboration between AI agents
 
 
----
 
----
 
 ## 🛠️ Setup & Run
 
