@@ -1,0 +1,7 @@
+google-adk
+fastapi
+uvicorn
+httpx
+pydantic
+openai
+streamlit
